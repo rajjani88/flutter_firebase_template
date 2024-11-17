@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796542826121",
+    "project_id": "bodypartsapp-dd9f6",
+    "storage_bucket": "bodypartsapp-dd9f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796542826121:android:2e9a8bfb2fbc3d7dceb858",
+        "android_client_info": {
+          "package_name": "com.app.bodyparts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAb3kRUJTJK7E66-7k5KPym2MPFqvrpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
